@@ -6,3 +6,4 @@
 #### SNR1: the implement of example 8.6 in principles-of-communications-7th-edition-ziemer
 #### RA:the implement of example 9.3 in principles-of-communications-7th-edition-ziemer
 #### biteerror: the implement of example 9.4 in principles-of-communications-7th-edition-ziemer
+#### mpsk: the implement of example 10.1 in principles-of-communications-7th-edition-ziemer
