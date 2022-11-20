@@ -1,5 +1,6 @@
 # principle-of-communication-7th-edition-ziemer
 #### HRS: the implement of example 2.1
+#### FR: the implement of example 2.2
 #### RZ2: the implement of example 5.1
 #### eyediagram: the implement of example 5.2
 #### FFT: the implement of example 5.3
