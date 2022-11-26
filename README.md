@@ -3,6 +3,7 @@
 #### FR: the implement of example 2.2
 #### DSFFT : the implement of example 2.3
 #### modulation : the implement of example 3.1
+#### PWM : the implement of example 4.3
 #### RZ2: the implement of example 5.1
 #### eyediagram: the implement of example 5.2
 #### FFT: the implement of example 5.3
