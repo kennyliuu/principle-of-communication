@@ -9,6 +9,7 @@
 #### eyediagram: the implement of example 5.2
 #### FFT: the implement of example 5.3
 #### SSS: the implement of example 5.4
+#### MCS: the implement of example 6.1
 #### SNR2: the implement of example 8.4
 #### SNR1: the implement of example 8.6
 #### POE: the implement of example 9.1
