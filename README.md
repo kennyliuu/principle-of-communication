@@ -13,6 +13,7 @@
 #### NEB : the implement of example 7.1
 #### SIP : the implement of example 8.1
 #### IN : the implement of example 8.2
+#### ENSNR : the implement of example 8.3
 #### SNR2 : the implement of example 8.4
 #### SNR1 : the implement of example 8.6
 #### POE : the implement of example 9.1
